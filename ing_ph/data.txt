@@ -1,0 +1,24 @@
+./ing_ph/animation/1.png
+./ing_ph/animation/2.png
+./ing_ph/animation/3.png
+./ing_ph/animation/4.png
+./ing_ph/animation/5.png
+./ing_ph/animation/6.png
+./ing_ph/animation/7.png
+./ing_ph/enigme1/enigme1.png 
+./ing_ph/enigme1/resulta.png
+./ing_ph/enigme1/slec1.png 
+./ing_ph/enigme1/slec2.png
+./ing_ph/enigme1/slec3.png
+./ing_ph/enigme2/enigme2.png
+./ing_ph/enigme2/resulta.png
+./ing_ph/enigme2/slec1.png
+./ing_ph/enigme2/slec2.png
+./ing_ph/enigme2/slec3.png
+./ing_ph/GOOD.png
+./ing_ph/WRONG.png
+480 463 100 65
+590 463 100 65
+704 463 100 65
+2
+1

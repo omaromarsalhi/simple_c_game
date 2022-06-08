@@ -1,0 +1,15 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/omar/Desktop/new_version_game-20220602T201630Z-001/new_version_game'
+gcc -c main.c  -g
+gcc -c image.c -g
+gcc -c function.c -g
+ 
+gcc -c perso.c -g
+gcc -c bk.c -g
+gcc -c minmap.c -g
+gcc -c ing_txt.c -g
+gcc -c ing_ph.c -g
+gcc -c ennemie.c -g
+gcc main.o image.o function.o perso.o bk.o minmap.o ing_txt.o ing_ph.o ennemie.o -lSDL -lSDL_image -lSDL_ttf -lSDL_mixer -lm -o prog  -g
+make: Leaving directory '/home/omar/Desktop/new_version_game-20220602T201630Z-001/new_version_game'
+ 

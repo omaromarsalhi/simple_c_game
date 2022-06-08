@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdarg.h": "c",
+        "sdl_mixer.h": "c",
+        "sdl_image.h": "c",
+        "structurs.h": "c",
+        "bk.h": "c",
+        "perso.h": "c",
+        "minmap.h": "c",
+        "ing_ph.h": "c"
+    },
+    "git.ignoreLimitWarning": true
+}
